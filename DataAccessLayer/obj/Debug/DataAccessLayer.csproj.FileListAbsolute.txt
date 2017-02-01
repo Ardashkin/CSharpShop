@@ -1,0 +1,14 @@
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\DomainModel.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\log4net.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\DomainModel.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\bin\Debug\log4net.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

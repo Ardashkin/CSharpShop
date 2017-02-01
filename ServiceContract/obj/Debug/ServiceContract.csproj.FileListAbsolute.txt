@@ -1,0 +1,16 @@
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\ServiceContract.dll.config
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\ServiceContract.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\ServiceContract.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\DomainModel.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\log4net.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\Repository.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\DataAccessLayer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\EntityFramework.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\DomainModel.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\Repository.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\log4net.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\bin\Debug\EntityFramework.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\obj\Debug\ServiceContract.csprojResolveAssemblyReference.cache
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\obj\Debug\ServiceContract.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\ServiceContract\obj\Debug\ServiceContract.pdb

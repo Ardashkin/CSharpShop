@@ -1,0 +1,7 @@
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\bin\Debug\Logger.dll.config
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\bin\Debug\Logger.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\bin\Debug\Logger.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\bin\Debug\log4net.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\bin\Debug\log4net.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\obj\Debug\Logger.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Logger\obj\Debug\Logger.pdb

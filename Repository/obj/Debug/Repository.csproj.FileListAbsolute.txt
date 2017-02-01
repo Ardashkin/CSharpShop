@@ -1,0 +1,16 @@
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\Repository.dll.config
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\Repository.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\Repository.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\DataAccessLayer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\DomainModel.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\log4net.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\DomainModel.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\log4net.xml
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\obj\Debug\Repository.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\obj\Debug\Repository.pdb
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ardashkin\Documents\Visual Studio 2015\GroupProjectCSharp\CSharpShop\Repository\bin\Debug\EntityFramework.SqlServer.xml
